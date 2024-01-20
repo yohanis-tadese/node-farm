@@ -50,7 +50,7 @@
 
   <pre><code>npm start</code></pre>
 
-  <p style="line-height: 1.5;">Open a web browser and navigate to <code>http://localhost:8000</code> to access the application.</p>
+  <p style="line-height: 1.5;">Open a web browser and navigate to <code>http://localhost:5000</code> to access the application.</p>
 
   <h2 style="font-size: 1.2rem; margin-bottom: 0.5rem;">Routes</h2>
 
@@ -67,10 +67,10 @@
   <p style="line-height: 1.5;">Here are a few examples to demonstrate how the routes work:</p>
 
   <ul>
-    <li>Overview page: <a href="http://localhost:8000" style="color: blue;">http://localhost:8000</a> or <a href="http://localhost:8000/overview" style="color: blue;">http://localhost:8000/overview</a></li>
-    <li>Product page for ID 1: <a href="http://localhost:8000/product?id=1" style="color: blue;">http://localhost:8000/product?id=1</a></li>
-    <li>Product page for ID 2: <a href="http://localhost:8000/product?id=2" style="color: blue;">http://localhost:8000/product?id=2</a></li>
-    <li>API data: <a href="http://localhost:8000/api" style="color: blue;">http://localhost:8000/api</a></li>
+    <li>Overview page: <a href="http://localhost:5000" style="color: blue;">http://localhost:5000</a> or <a href="http://localhost:5000/overview" style="color: blue;">http://localhost:5000/overview</a></li>
+    <li>Product page for ID 1: <a href="http://localhost:5000/product?id=1" style="color: blue;">http://localhost:5000/product?id=1</a></li>
+    <li>Product page for ID 2: <a href="http://localhost:5000/product?id=2" style="color: blue;">http://localhost:5000/product?id=2</a></li>
+    <li>API data: <a href="http://localhost:5000/api" style="color: blue;">http://localhost:5000/api</a></li>
   </ul>
 
   <p style="line-height: 1.5;">Note: Please make sure to have the necessary data and template files in the correct locations as specified in the project structure. Adjust the code accordingly if you need to modify the file paths.</p>
