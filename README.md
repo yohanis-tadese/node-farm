@@ -1,11 +1,11 @@
 <body style="font-family: Arial, sans-serif; line-height: 1.5; margin: 2rem;">
   <h1 style="font-size: 1.5rem; margin-bottom: 1rem; text-align: center;">NODE-FARM</h1>
-  <img src="./images/MainPage.png" alt="mainpage">
+   <img src="./redme-image/main-page.png" alt="mainpage">
 
   <p style="line-height: 1.5;">This is a project that demonstrates a simple server-side application using Node.js and HTTP. The application reads data from a JSON file, generates HTML templates, and serves them to the client based on the requested URL.</p>
 
   <h3 style="font-size: 1.5rem; margin-bottom: 1rem; text-align: center;">Product Page</h3>
-  <img src="./images/Product.png" alt="productpage">
+  <img src="./redme-image/product-page.png" alt="productpage">
   <h2 style="font-size: 1.2rem; margin-bottom: 0.5rem;">Project Structure</h2>
 
   <p style="line-height: 1.5;">The project consists of the following modules and files:</p>
